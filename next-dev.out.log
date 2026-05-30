@@ -1,0 +1,15 @@
+
+> pathfinder@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+- Environments: .env
+✓ Ready in 345ms
+
+ GET /api/college-benchmarks 200 in 249ms (next.js: 197ms, application-code: 52ms)
+ GET / 200 in 185ms (next.js: 62ms, application-code: 123ms)
+ GET /api/placement-data 200 in 20ms (next.js: 16ms, application-code: 4ms)
+ GET /api/college-benchmarks 200 in 5ms (next.js: 1762µs, application-code: 3ms)
+  Reload env: .env

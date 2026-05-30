@@ -1,0 +1,301 @@
+student_id,age,gender,degree,branch,college_tier,skills_count,internships,projects,coding_level,cgpa,placement_status,job_role,package_lpa
+S001,21,M,B.Tech,Data Science,Tier-1,4,0,2,Advanced,6.78,Not Placed,None,0.0
+S002,24,F,BCA,IT,Tier-1,3,0,4,Basic,8.22,Not Placed,None,0.0
+S003,24,M,B.Sc,CSE,Tier-3,4,3,6,Intermediate,6.07,Not Placed,None,0.0
+S004,24,M,BCA,Data Science,Tier-3,10,1,2,Intermediate,7.73,Placed,HR Analyst,11.2
+S005,20,M,B.Tech,Commerce,Tier-2,6,2,4,Basic,8.07,Placed,Design Engineer,10.6
+S006,24,M,B.Sc,Data Science,Tier-3,2,0,4,Intermediate,8.52,Not Placed,None,0.0
+S007,20,F,BCA,EEE,Tier-2,5,0,5,Advanced,6.85,Not Placed,None,0.0
+S008,21,M,M.Sc,Commerce,Tier-2,4,3,4,Advanced,7.86,Not Placed,None,0.0
+S009,24,F,BCA,Finance,Tier-3,4,0,3,Basic,6.56,Not Placed,None,0.0
+S010,20,F,BCA,IT,Tier-2,8,3,3,Basic,6.34,Not Placed,None,0.0
+S011,20,M,B.Tech,IT,Tier-3,2,1,5,Intermediate,8.43,Not Placed,None,0.0
+S012,20,F,MBA,EEE,Tier-2,6,1,4,Intermediate,9.06,Placed,Web Developer,7.0
+S013,23,F,M.Sc,IT,Tier-2,9,2,4,Intermediate,6.41,Not Placed,None,0.0
+S014,21,M,BCA,IT,Tier-2,7,0,4,Intermediate,6.22,Not Placed,None,0.0
+S015,21,M,M.Sc,Finance,Tier-3,6,1,6,Basic,8.59,Placed,Business Analyst,19.5
+S016,21,F,M.Sc,ME,Tier-3,6,2,6,Intermediate,6.59,Not Placed,None,0.0
+S017,23,M,BCA,Commerce,Tier-1,6,3,2,Basic,8.9,Placed,Web Developer,11.1
+S018,22,M,B.Tech,CSE,Tier-2,6,0,4,Intermediate,7.68,Placed,AI Engineer,20.6
+S019,23,F,BCA,Finance,Tier-1,4,0,2,Basic,9.46,Not Placed,None,0.0
+S020,23,M,B.Tech,IT,Tier-2,2,3,5,Basic,8.74,Not Placed,None,0.0
+S021,23,F,B.Tech,IT,Tier-3,10,0,4,Basic,7.98,Placed,Data Analyst,14.9
+S022,21,F,B.Sc,IT,Tier-2,5,1,3,Basic,8.15,Placed,ML Engineer,18.3
+S023,20,M,MBA,Commerce,Tier-1,4,0,5,Basic,8.14,Not Placed,None,0.0
+S024,24,M,BCA,Commerce,Tier-2,2,2,4,Intermediate,8.64,Not Placed,None,0.0
+S025,24,F,BCA,CSE,Tier-2,7,2,6,Basic,7.41,Placed,Web Developer,15.2
+S026,22,F,B.Sc,EEE,Tier-2,3,1,2,Intermediate,9.22,Not Placed,None,0.0
+S027,23,F,BCA,CSE,Tier-1,5,0,2,Basic,7.93,Placed,Software Engineer,8.8
+S028,23,M,B.Sc,Data Science,Tier-2,10,2,6,Basic,8.53,Placed,Business Analyst,8.3
+S029,21,M,BCA,Civil,Tier-2,10,0,5,Intermediate,8.61,Placed,Design Engineer,20.1
+S030,20,M,B.Tech,Finance,Tier-3,7,3,1,Intermediate,8.93,Placed,Data Analyst,3.9
+S031,23,M,B.Tech,Finance,Tier-3,7,0,6,Basic,9.41,Placed,HR Analyst,11.3
+S032,23,M,M.Sc,CSE,Tier-2,9,3,4,Advanced,8.6,Placed,HR Analyst,21.2
+S033,24,F,B.Sc,Commerce,Tier-3,4,0,4,Basic,6.86,Not Placed,None,0.0
+S034,24,M,B.Tech,Civil,Tier-3,3,0,5,Basic,6.69,Not Placed,None,0.0
+S035,21,F,BCA,Data Science,Tier-3,5,1,3,Intermediate,7.93,Placed,ML Engineer,3.9
+S036,20,F,B.Tech,Commerce,Tier-3,3,3,4,Advanced,7.34,Not Placed,None,0.0
+S037,21,M,MBA,Commerce,Tier-2,3,3,4,Advanced,8.18,Not Placed,None,0.0
+S038,22,M,B.Tech,Data Science,Tier-3,4,2,6,Advanced,7.04,Not Placed,None,0.0
+S039,23,F,M.Sc,EEE,Tier-2,3,1,5,Advanced,9.04,Not Placed,None,0.0
+S040,21,F,MBA,Data Science,Tier-2,6,0,1,Basic,7.38,Placed,Web Developer,11.3
+S041,22,M,B.Tech,Civil,Tier-3,4,3,5,Advanced,8.67,Not Placed,None,0.0
+S042,23,F,MBA,Commerce,Tier-2,5,0,5,Intermediate,7.93,Placed,Web Developer,8.1
+S043,23,M,B.Tech,Finance,Tier-3,10,2,2,Basic,7.39,Placed,AI Engineer,17.8
+S044,24,M,B.Tech,Data Science,Tier-3,6,3,6,Advanced,6.95,Not Placed,None,0.0
+S045,24,F,BCA,ME,Tier-3,4,3,1,Intermediate,6.97,Not Placed,None,0.0
+S046,22,M,MBA,EEE,Tier-2,6,3,2,Basic,9.49,Placed,Design Engineer,12.3
+S047,21,M,B.Sc,CSE,Tier-3,3,3,5,Advanced,6.5,Not Placed,None,0.0
+S048,21,M,B.Sc,IT,Tier-2,10,3,3,Basic,6.11,Not Placed,None,0.0
+S049,24,F,B.Sc,Commerce,Tier-2,5,2,2,Basic,9.01,Placed,Data Analyst,15.8
+S050,21,F,B.Sc,Finance,Tier-1,10,2,3,Basic,6.14,Not Placed,None,0.0
+S051,24,F,BCA,Commerce,Tier-2,6,2,3,Basic,9.04,Placed,AI Engineer,19.8
+S052,21,F,B.Tech,Civil,Tier-1,4,1,5,Basic,9.09,Not Placed,None,0.0
+S053,22,F,M.Sc,EEE,Tier-2,6,0,1,Intermediate,6.67,Not Placed,None,0.0
+S054,24,M,B.Tech,Civil,Tier-2,3,3,3,Basic,7.92,Not Placed,None,0.0
+S055,20,F,MBA,Commerce,Tier-1,7,2,5,Basic,7.36,Placed,Business Analyst,3.9
+S056,20,F,B.Tech,EEE,Tier-2,7,0,3,Intermediate,8.11,Placed,Data Analyst,5.5
+S057,23,F,B.Sc,Civil,Tier-2,2,3,2,Intermediate,9.06,Not Placed,None,0.0
+S058,22,M,B.Sc,Commerce,Tier-3,2,2,1,Basic,7.2,Not Placed,None,0.0
+S059,24,F,BCA,Data Science,Tier-3,6,2,5,Basic,6.69,Not Placed,None,0.0
+S060,23,F,BCA,Finance,Tier-3,7,3,4,Advanced,6.19,Not Placed,None,0.0
+S061,21,F,BCA,CSE,Tier-3,6,1,3,Advanced,7.07,Placed,AI Engineer,4.2
+S062,21,F,BCA,Commerce,Tier-3,9,3,1,Basic,6.3,Not Placed,None,0.0
+S063,22,F,M.Sc,Civil,Tier-3,7,2,2,Basic,6.01,Not Placed,None,0.0
+S064,20,F,B.Tech,IT,Tier-3,9,1,6,Basic,7.71,Placed,Design Engineer,16.9
+S065,24,F,M.Sc,Civil,Tier-2,5,1,4,Basic,8.5,Placed,ML Engineer,16.1
+S066,20,M,B.Sc,Commerce,Tier-3,5,2,3,Basic,8.24,Placed,Business Analyst,8.9
+S067,23,F,BCA,Finance,Tier-3,5,0,3,Intermediate,7.37,Placed,ML Engineer,13.5
+S068,20,F,BCA,Commerce,Tier-2,2,1,1,Intermediate,6.05,Not Placed,None,0.0
+S069,24,M,BCA,ME,Tier-1,2,2,1,Advanced,6.96,Not Placed,None,0.0
+S070,24,M,B.Tech,Commerce,Tier-3,3,3,6,Advanced,7.14,Not Placed,None,0.0
+S071,24,M,B.Sc,Data Science,Tier-2,9,0,4,Basic,6.27,Not Placed,None,0.0
+S072,21,F,B.Tech,CSE,Tier-1,2,2,6,Intermediate,8.03,Not Placed,None,0.0
+S073,20,F,BCA,Commerce,Tier-1,5,1,2,Basic,6.65,Not Placed,None,0.0
+S074,20,M,M.Sc,Commerce,Tier-3,9,3,4,Intermediate,8.43,Placed,ML Engineer,8.3
+S075,23,F,MBA,CSE,Tier-1,9,0,1,Intermediate,7.48,Placed,HR Analyst,11.4
+S076,21,F,M.Sc,Civil,Tier-1,10,2,4,Advanced,9.08,Placed,HR Analyst,8.4
+S077,20,M,BCA,Finance,Tier-3,5,2,1,Basic,8.0,Placed,AI Engineer,4.8
+S078,23,F,MBA,ME,Tier-1,9,2,6,Advanced,8.82,Placed,HR Analyst,20.5
+S079,23,F,B.Sc,Commerce,Tier-2,4,1,4,Basic,7.57,Not Placed,None,0.0
+S080,23,M,M.Sc,Civil,Tier-2,4,3,6,Advanced,8.07,Not Placed,None,0.0
+S081,23,M,BCA,IT,Tier-2,3,3,2,Basic,6.11,Not Placed,None,0.0
+S082,24,F,B.Sc,ME,Tier-2,10,0,1,Advanced,6.51,Not Placed,None,0.0
+S083,24,M,B.Sc,Commerce,Tier-1,4,1,3,Basic,6.67,Not Placed,None,0.0
+S084,21,M,B.Sc,Commerce,Tier-2,10,1,4,Intermediate,9.0,Placed,HR Analyst,14.5
+S085,23,F,BCA,Finance,Tier-3,9,3,4,Intermediate,6.35,Not Placed,None,0.0
+S086,20,M,M.Sc,IT,Tier-3,8,0,1,Intermediate,7.39,Placed,Data Analyst,4.4
+S087,22,F,BCA,ME,Tier-1,3,3,3,Basic,7.91,Not Placed,None,0.0
+S088,20,F,BCA,IT,Tier-1,4,3,3,Basic,7.53,Not Placed,None,0.0
+S089,22,F,B.Tech,IT,Tier-3,5,3,4,Intermediate,6.85,Not Placed,None,0.0
+S090,23,M,M.Sc,Commerce,Tier-2,2,1,2,Intermediate,6.04,Not Placed,None,0.0
+S091,23,M,B.Tech,Civil,Tier-3,3,2,4,Basic,6.56,Not Placed,None,0.0
+S092,23,M,M.Sc,CSE,Tier-2,7,1,3,Basic,7.34,Placed,Data Analyst,17.6
+S093,22,F,MBA,EEE,Tier-1,9,3,6,Basic,6.33,Not Placed,None,0.0
+S094,20,M,MBA,EEE,Tier-1,10,1,4,Intermediate,8.73,Placed,Data Analyst,15.0
+S095,21,M,B.Sc,Data Science,Tier-1,7,1,4,Advanced,6.89,Not Placed,None,0.0
+S096,24,M,B.Tech,Finance,Tier-3,8,1,5,Intermediate,6.36,Not Placed,None,0.0
+S097,20,F,M.Sc,ME,Tier-2,5,2,2,Intermediate,7.39,Placed,ML Engineer,9.7
+S098,22,M,MBA,Finance,Tier-3,4,1,4,Advanced,7.45,Not Placed,None,0.0
+S099,22,M,MBA,ME,Tier-2,8,3,3,Basic,6.67,Not Placed,None,0.0
+S100,20,F,B.Sc,Civil,Tier-1,10,0,5,Advanced,7.42,Placed,Data Analyst,7.5
+S101,24,M,MBA,Commerce,Tier-2,6,1,5,Basic,9.24,Placed,AI Engineer,9.9
+S102,21,M,M.Sc,ME,Tier-2,5,2,2,Basic,8.2,Placed,Design Engineer,15.0
+S103,20,F,B.Sc,IT,Tier-3,10,1,5,Basic,7.82,Placed,Business Analyst,8.5
+S104,22,F,MBA,Commerce,Tier-2,3,2,3,Advanced,6.79,Not Placed,None,0.0
+S105,22,F,MBA,Finance,Tier-2,8,0,1,Basic,7.06,Placed,Business Analyst,4.9
+S106,23,F,B.Sc,IT,Tier-2,10,1,3,Advanced,8.15,Placed,Data Analyst,6.3
+S107,23,M,B.Tech,CSE,Tier-3,10,3,4,Basic,7.65,Placed,Design Engineer,19.0
+S108,24,M,MBA,Civil,Tier-1,4,0,5,Basic,6.29,Not Placed,None,0.0
+S109,24,M,M.Sc,ME,Tier-3,8,1,1,Advanced,8.11,Placed,Web Developer,6.2
+S110,22,F,MBA,ME,Tier-2,8,0,6,Basic,8.27,Placed,Software Engineer,21.9
+S111,22,M,BCA,IT,Tier-1,4,2,6,Advanced,7.0,Not Placed,None,0.0
+S112,20,F,B.Tech,EEE,Tier-3,10,3,3,Basic,9.34,Placed,Web Developer,5.3
+S113,24,F,B.Sc,Data Science,Tier-3,8,2,6,Basic,9.43,Placed,Design Engineer,15.5
+S114,21,F,M.Sc,Finance,Tier-2,9,2,4,Basic,7.71,Placed,Business Analyst,13.4
+S115,24,F,BCA,Finance,Tier-1,5,0,4,Basic,6.9,Not Placed,None,0.0
+S116,24,M,B.Sc,Finance,Tier-1,5,2,6,Intermediate,8.39,Placed,ML Engineer,13.0
+S117,24,M,BCA,CSE,Tier-2,10,1,6,Basic,7.36,Placed,Business Analyst,15.4
+S118,24,M,B.Sc,IT,Tier-2,6,3,5,Advanced,7.45,Placed,Business Analyst,17.1
+S119,22,M,B.Sc,Commerce,Tier-1,4,3,6,Basic,8.39,Not Placed,None,0.0
+S120,22,M,B.Sc,ME,Tier-1,3,3,4,Basic,8.92,Not Placed,None,0.0
+S121,24,M,MBA,ME,Tier-2,9,3,1,Basic,8.23,Placed,Design Engineer,4.9
+S122,21,F,MBA,Data Science,Tier-2,8,2,4,Advanced,9.19,Placed,AI Engineer,15.4
+S123,22,F,MBA,IT,Tier-1,10,1,4,Basic,8.19,Placed,Design Engineer,7.6
+S124,22,F,BCA,IT,Tier-3,4,1,4,Intermediate,6.22,Not Placed,None,0.0
+S125,22,F,B.Sc,Commerce,Tier-2,4,3,3,Advanced,8.42,Not Placed,None,0.0
+S126,20,M,B.Sc,CSE,Tier-1,10,3,4,Basic,7.72,Placed,Web Developer,14.5
+S127,22,M,B.Sc,CSE,Tier-3,10,3,3,Intermediate,8.34,Placed,AI Engineer,11.5
+S128,21,F,MBA,EEE,Tier-3,6,0,3,Advanced,6.87,Not Placed,None,0.0
+S129,21,M,BCA,Civil,Tier-2,2,0,1,Advanced,6.33,Not Placed,None,0.0
+S130,20,M,B.Sc,Civil,Tier-2,6,1,6,Intermediate,9.17,Placed,Data Analyst,20.4
+S131,20,F,MBA,ME,Tier-3,2,3,3,Intermediate,8.08,Not Placed,None,0.0
+S132,20,M,B.Sc,Data Science,Tier-1,8,2,3,Advanced,6.49,Not Placed,None,0.0
+S133,20,F,BCA,Finance,Tier-2,9,0,4,Advanced,7.56,Placed,Business Analyst,14.0
+S134,21,F,MBA,Commerce,Tier-2,6,0,6,Intermediate,6.3,Not Placed,None,0.0
+S135,24,F,MBA,IT,Tier-2,3,1,3,Basic,7.99,Not Placed,None,0.0
+S136,22,M,MBA,Civil,Tier-3,4,2,5,Intermediate,7.5,Not Placed,None,0.0
+S137,21,M,M.Sc,Finance,Tier-2,9,0,3,Basic,9.01,Placed,Software Engineer,15.8
+S138,22,F,BCA,CSE,Tier-3,10,1,5,Basic,6.1,Not Placed,None,0.0
+S139,21,M,M.Sc,Commerce,Tier-1,8,1,1,Basic,8.61,Placed,Software Engineer,14.4
+S140,21,M,MBA,CSE,Tier-2,5,1,5,Basic,8.29,Placed,Design Engineer,3.1
+S141,20,F,B.Tech,IT,Tier-1,2,3,3,Basic,6.07,Not Placed,None,0.0
+S142,21,M,B.Sc,Civil,Tier-3,4,1,4,Advanced,7.46,Not Placed,None,0.0
+S143,20,F,B.Sc,EEE,Tier-3,3,1,4,Advanced,8.88,Not Placed,None,0.0
+S144,23,M,B.Sc,CSE,Tier-3,7,2,4,Basic,8.7,Placed,Web Developer,21.3
+S145,23,M,B.Tech,Finance,Tier-3,4,0,6,Basic,6.97,Not Placed,None,0.0
+S146,23,F,B.Tech,CSE,Tier-1,5,1,1,Advanced,6.99,Not Placed,None,0.0
+S147,22,M,MBA,Civil,Tier-2,5,0,3,Basic,8.43,Placed,ML Engineer,17.3
+S148,24,M,M.Sc,IT,Tier-3,2,2,6,Intermediate,6.2,Not Placed,None,0.0
+S149,22,M,M.Sc,Data Science,Tier-1,4,0,2,Advanced,7.03,Not Placed,None,0.0
+S150,24,F,B.Tech,Data Science,Tier-2,9,0,3,Advanced,7.11,Placed,AI Engineer,16.6
+S151,23,M,M.Sc,IT,Tier-3,10,0,6,Basic,6.75,Not Placed,None,0.0
+S152,22,M,B.Sc,Commerce,Tier-3,6,3,4,Basic,9.08,Placed,ML Engineer,19.3
+S153,23,F,M.Sc,Finance,Tier-3,2,1,5,Intermediate,9.1,Not Placed,None,0.0
+S154,22,F,M.Sc,IT,Tier-3,9,2,3,Advanced,8.24,Placed,Web Developer,3.1
+S155,20,M,M.Sc,Civil,Tier-2,4,2,6,Advanced,8.39,Not Placed,None,0.0
+S156,23,M,B.Tech,IT,Tier-2,2,3,6,Advanced,9.14,Not Placed,None,0.0
+S157,21,M,B.Tech,IT,Tier-1,6,0,2,Intermediate,8.59,Placed,Business Analyst,6.9
+S158,20,M,B.Tech,Commerce,Tier-2,7,2,1,Intermediate,6.12,Not Placed,None,0.0
+S159,20,F,M.Sc,CSE,Tier-3,9,1,5,Advanced,8.68,Placed,Software Engineer,14.7
+S160,23,M,MBA,Civil,Tier-3,2,2,5,Basic,7.12,Not Placed,None,0.0
+S161,24,F,BCA,CSE,Tier-3,10,1,3,Intermediate,7.72,Placed,Design Engineer,11.9
+S162,22,F,B.Sc,IT,Tier-2,5,1,3,Intermediate,6.68,Not Placed,None,0.0
+S163,23,F,B.Sc,CSE,Tier-2,10,3,3,Basic,8.17,Placed,Software Engineer,4.1
+S164,24,F,M.Sc,Civil,Tier-1,8,0,6,Intermediate,9.11,Placed,Data Analyst,14.8
+S165,24,F,BCA,CSE,Tier-1,2,0,1,Advanced,6.33,Not Placed,None,0.0
+S166,22,F,B.Sc,IT,Tier-1,9,0,4,Basic,8.47,Placed,Software Engineer,6.2
+S167,24,F,BCA,Finance,Tier-3,5,1,2,Intermediate,9.02,Placed,HR Analyst,18.7
+S168,20,F,M.Sc,Finance,Tier-1,8,2,2,Advanced,6.84,Not Placed,None,0.0
+S169,23,M,MBA,Finance,Tier-3,3,3,4,Advanced,6.29,Not Placed,None,0.0
+S170,23,F,B.Tech,ME,Tier-3,6,0,2,Intermediate,8.61,Placed,Data Analyst,7.8
+S171,20,F,M.Sc,Finance,Tier-2,3,1,2,Advanced,8.06,Not Placed,None,0.0
+S172,24,F,BCA,Finance,Tier-2,8,0,5,Basic,7.72,Placed,Software Engineer,14.6
+S173,24,M,B.Sc,Data Science,Tier-3,6,3,2,Basic,6.78,Not Placed,None,0.0
+S174,21,M,B.Sc,EEE,Tier-1,10,0,3,Advanced,7.57,Placed,AI Engineer,14.9
+S175,24,F,MBA,EEE,Tier-3,10,0,4,Intermediate,6.13,Not Placed,None,0.0
+S176,23,F,BCA,ME,Tier-1,4,2,6,Basic,8.41,Not Placed,None,0.0
+S177,23,F,MBA,ME,Tier-2,6,1,1,Advanced,6.66,Not Placed,None,0.0
+S178,23,F,MBA,IT,Tier-1,6,2,5,Basic,7.56,Placed,Data Analyst,21.3
+S179,23,M,M.Sc,Civil,Tier-3,4,2,4,Basic,7.87,Not Placed,None,0.0
+S180,22,F,B.Sc,Data Science,Tier-3,2,3,3,Intermediate,7.12,Not Placed,None,0.0
+S181,21,F,BCA,Data Science,Tier-3,10,0,2,Intermediate,7.27,Placed,Business Analyst,4.7
+S182,23,M,B.Sc,Data Science,Tier-1,6,0,1,Basic,7.89,Placed,Design Engineer,19.8
+S183,21,F,B.Tech,Commerce,Tier-1,4,2,5,Intermediate,7.11,Not Placed,None,0.0
+S184,23,M,B.Tech,ME,Tier-3,9,0,3,Advanced,9.45,Placed,AI Engineer,20.2
+S185,22,M,B.Sc,Commerce,Tier-1,5,0,5,Advanced,7.05,Placed,Web Developer,13.7
+S186,23,F,B.Tech,ME,Tier-1,8,1,2,Advanced,8.74,Placed,Data Analyst,12.7
+S187,21,F,B.Sc,EEE,Tier-1,3,3,5,Advanced,7.25,Not Placed,None,0.0
+S188,24,M,M.Sc,ME,Tier-1,6,3,4,Basic,7.87,Placed,HR Analyst,9.5
+S189,23,M,M.Sc,Finance,Tier-2,6,2,5,Intermediate,7.56,Placed,Design Engineer,4.9
+S190,21,F,B.Tech,ME,Tier-3,5,1,1,Intermediate,9.23,Placed,Business Analyst,18.2
+S191,24,F,B.Sc,Data Science,Tier-2,4,1,6,Intermediate,8.97,Not Placed,None,0.0
+S192,24,M,BCA,EEE,Tier-1,2,3,4,Intermediate,9.21,Not Placed,None,0.0
+S193,24,F,B.Tech,Commerce,Tier-2,4,1,1,Intermediate,9.44,Not Placed,None,0.0
+S194,22,M,B.Tech,Finance,Tier-1,10,2,5,Advanced,8.23,Placed,Data Analyst,7.0
+S195,23,M,B.Tech,EEE,Tier-3,4,3,2,Basic,6.03,Not Placed,None,0.0
+S196,20,M,MBA,Data Science,Tier-1,3,3,5,Advanced,8.66,Not Placed,None,0.0
+S197,22,F,M.Sc,CSE,Tier-1,8,0,2,Advanced,6.61,Not Placed,None,0.0
+S198,23,F,B.Tech,ME,Tier-2,7,0,2,Intermediate,6.35,Not Placed,None,0.0
+S199,24,F,BCA,Commerce,Tier-2,3,1,2,Advanced,9.0,Not Placed,None,0.0
+S200,24,M,MBA,Finance,Tier-2,5,0,1,Intermediate,8.69,Placed,HR Analyst,19.8
+S201,24,M,MBA,ME,Tier-2,5,0,3,Intermediate,9.47,Placed,AI Engineer,8.1
+S202,21,F,B.Tech,EEE,Tier-2,8,1,2,Intermediate,8.39,Placed,Business Analyst,4.5
+S203,22,F,BCA,IT,Tier-2,8,2,1,Advanced,8.51,Placed,HR Analyst,10.7
+S204,23,M,MBA,EEE,Tier-2,9,1,6,Basic,6.93,Not Placed,None,0.0
+S205,22,M,MBA,EEE,Tier-3,6,3,5,Advanced,9.18,Placed,AI Engineer,11.1
+S206,24,F,B.Tech,EEE,Tier-3,4,2,1,Advanced,8.33,Not Placed,None,0.0
+S207,23,M,MBA,Commerce,Tier-2,7,0,2,Advanced,7.08,Placed,Web Developer,21.4
+S208,20,M,B.Sc,ME,Tier-1,5,0,5,Basic,6.52,Not Placed,None,0.0
+S209,22,M,B.Tech,IT,Tier-1,2,2,6,Intermediate,6.83,Not Placed,None,0.0
+S210,22,M,B.Sc,CSE,Tier-2,2,1,4,Intermediate,6.53,Not Placed,None,0.0
+S211,21,F,B.Sc,Data Science,Tier-3,7,1,3,Advanced,7.33,Placed,Software Engineer,5.1
+S212,22,F,B.Sc,ME,Tier-3,10,0,3,Intermediate,8.91,Placed,Design Engineer,11.4
+S213,21,F,M.Sc,Civil,Tier-1,7,3,4,Advanced,7.79,Placed,Web Developer,9.1
+S214,23,M,BCA,Data Science,Tier-3,7,1,4,Intermediate,6.59,Not Placed,None,0.0
+S215,20,M,B.Sc,Commerce,Tier-1,2,2,1,Basic,6.76,Not Placed,None,0.0
+S216,21,F,B.Tech,Data Science,Tier-3,7,0,6,Advanced,8.79,Placed,Web Developer,16.2
+S217,22,F,BCA,Civil,Tier-1,5,0,6,Intermediate,9.49,Placed,Business Analyst,6.5
+S218,21,M,B.Tech,Civil,Tier-1,5,2,1,Intermediate,6.91,Not Placed,None,0.0
+S219,24,M,MBA,IT,Tier-2,5,0,4,Advanced,7.87,Placed,AI Engineer,13.6
+S220,20,M,M.Sc,Data Science,Tier-3,10,2,2,Intermediate,6.59,Not Placed,None,0.0
+S221,20,F,B.Sc,Civil,Tier-1,9,1,5,Advanced,7.78,Placed,HR Analyst,10.8
+S222,20,M,B.Sc,Civil,Tier-3,7,1,5,Advanced,6.12,Not Placed,None,0.0
+S223,24,F,B.Sc,Commerce,Tier-1,5,1,5,Intermediate,9.48,Placed,AI Engineer,20.5
+S224,22,F,M.Sc,EEE,Tier-2,9,2,2,Intermediate,9.34,Placed,AI Engineer,21.9
+S225,20,F,BCA,Commerce,Tier-1,9,1,6,Basic,7.39,Placed,Data Analyst,7.1
+S226,22,F,B.Tech,ME,Tier-3,9,3,3,Advanced,9.44,Placed,HR Analyst,17.6
+S227,21,M,B.Tech,Data Science,Tier-2,10,3,4,Intermediate,7.12,Placed,Web Developer,3.4
+S228,21,M,B.Tech,Civil,Tier-1,3,1,6,Intermediate,7.71,Not Placed,None,0.0
+S229,22,F,BCA,Civil,Tier-3,6,3,6,Advanced,6.37,Not Placed,None,0.0
+S230,20,M,M.Sc,EEE,Tier-2,8,3,6,Intermediate,7.96,Placed,Data Analyst,19.8
+S231,21,F,B.Sc,Civil,Tier-3,7,3,2,Intermediate,8.17,Placed,Data Analyst,6.1
+S232,23,F,BCA,Data Science,Tier-2,7,0,3,Advanced,6.21,Not Placed,None,0.0
+S233,20,M,M.Sc,Commerce,Tier-1,3,3,4,Advanced,9.32,Not Placed,None,0.0
+S234,23,M,M.Sc,Data Science,Tier-2,4,2,2,Advanced,8.64,Not Placed,None,0.0
+S235,22,M,MBA,IT,Tier-3,4,2,3,Advanced,6.25,Not Placed,None,0.0
+S236,20,M,M.Sc,IT,Tier-3,4,3,5,Intermediate,7.44,Not Placed,None,0.0
+S237,21,M,B.Sc,EEE,Tier-1,6,2,3,Advanced,7.26,Placed,Software Engineer,16.8
+S238,22,F,MBA,Data Science,Tier-2,7,0,4,Advanced,8.48,Placed,AI Engineer,7.4
+S239,23,F,MBA,Data Science,Tier-1,4,3,5,Intermediate,8.59,Not Placed,None,0.0
+S240,22,M,MBA,CSE,Tier-3,9,0,3,Basic,8.1,Placed,Business Analyst,20.5
+S241,20,M,B.Tech,ME,Tier-1,4,2,4,Intermediate,6.88,Not Placed,None,0.0
+S242,21,M,BCA,Commerce,Tier-2,6,1,1,Advanced,7.08,Placed,Software Engineer,6.2
+S243,20,M,MBA,CSE,Tier-2,2,0,3,Intermediate,6.14,Not Placed,None,0.0
+S244,24,F,M.Sc,EEE,Tier-3,9,0,5,Advanced,7.5,Placed,ML Engineer,4.5
+S245,23,M,B.Tech,EEE,Tier-3,10,2,5,Advanced,8.78,Placed,Design Engineer,20.9
+S246,21,M,MBA,Data Science,Tier-3,7,1,2,Advanced,9.32,Placed,ML Engineer,9.9
+S247,21,F,B.Tech,EEE,Tier-2,6,0,5,Intermediate,7.97,Placed,Design Engineer,18.3
+S248,21,F,M.Sc,ME,Tier-3,5,2,5,Advanced,9.43,Placed,HR Analyst,8.4
+S249,21,M,B.Sc,Civil,Tier-1,5,3,3,Intermediate,8.93,Placed,Software Engineer,5.6
+S250,24,M,M.Sc,EEE,Tier-2,8,0,6,Advanced,8.56,Placed,Business Analyst,18.2
+S251,22,M,M.Sc,EEE,Tier-1,10,2,4,Basic,7.66,Placed,Design Engineer,12.2
+S252,20,F,B.Sc,CSE,Tier-3,6,1,2,Advanced,7.71,Placed,HR Analyst,17.4
+S253,23,M,B.Sc,Finance,Tier-2,3,1,1,Basic,9.27,Not Placed,None,0.0
+S254,20,F,MBA,Finance,Tier-2,4,2,6,Advanced,6.63,Not Placed,None,0.0
+S255,21,M,B.Tech,CSE,Tier-3,6,0,4,Advanced,6.26,Not Placed,None,0.0
+S256,22,M,B.Tech,Finance,Tier-1,10,3,1,Basic,8.65,Placed,Web Developer,14.1
+S257,21,F,MBA,Commerce,Tier-3,9,2,4,Advanced,7.15,Placed,AI Engineer,7.9
+S258,23,F,B.Sc,ME,Tier-2,6,3,6,Intermediate,6.61,Not Placed,None,0.0
+S259,21,M,MBA,Civil,Tier-3,7,1,4,Advanced,7.83,Placed,HR Analyst,9.9
+S260,22,F,B.Sc,Civil,Tier-2,3,3,1,Intermediate,6.46,Not Placed,None,0.0
+S261,21,M,M.Sc,IT,Tier-3,4,2,4,Advanced,6.16,Not Placed,None,0.0
+S262,22,F,BCA,Commerce,Tier-3,4,2,5,Intermediate,6.41,Not Placed,None,0.0
+S263,22,F,BCA,CSE,Tier-2,4,3,3,Advanced,7.28,Not Placed,None,0.0
+S264,20,M,M.Sc,IT,Tier-1,10,0,6,Advanced,8.06,Placed,Web Developer,5.9
+S265,21,F,MBA,Civil,Tier-3,5,3,3,Advanced,7.84,Placed,ML Engineer,9.1
+S266,23,M,M.Sc,Civil,Tier-1,7,1,6,Basic,6.33,Not Placed,None,0.0
+S267,23,F,MBA,ME,Tier-1,10,2,6,Intermediate,7.52,Placed,ML Engineer,15.8
+S268,21,F,B.Sc,Civil,Tier-2,4,2,3,Advanced,7.72,Not Placed,None,0.0
+S269,21,M,B.Tech,EEE,Tier-1,10,2,2,Intermediate,7.23,Placed,Web Developer,9.8
+S270,22,F,M.Sc,IT,Tier-2,3,1,3,Advanced,6.26,Not Placed,None,0.0
+S271,20,M,BCA,ME,Tier-2,7,3,5,Intermediate,7.97,Placed,Design Engineer,20.5
+S272,23,F,B.Sc,Commerce,Tier-2,5,3,6,Basic,9.03,Placed,ML Engineer,3.7
+S273,22,M,M.Sc,CSE,Tier-2,8,3,2,Basic,6.19,Not Placed,None,0.0
+S274,20,M,B.Sc,EEE,Tier-2,5,1,3,Intermediate,8.78,Placed,AI Engineer,7.5
+S275,24,M,B.Tech,Finance,Tier-3,9,3,4,Intermediate,8.67,Placed,Business Analyst,6.1
+S276,20,F,B.Sc,Civil,Tier-2,5,1,2,Intermediate,7.39,Placed,Design Engineer,18.6
+S277,22,F,B.Sc,EEE,Tier-1,6,2,5,Advanced,8.5,Placed,HR Analyst,18.3
+S278,20,F,BCA,EEE,Tier-2,8,2,2,Advanced,9.0,Placed,Design Engineer,19.7
+S279,22,F,MBA,Finance,Tier-2,9,0,5,Advanced,8.18,Placed,HR Analyst,21.3
+S280,20,M,BCA,IT,Tier-1,7,2,1,Advanced,8.05,Placed,ML Engineer,15.9
+S281,22,F,MBA,Data Science,Tier-2,2,2,6,Intermediate,8.43,Not Placed,None,0.0
+S282,23,F,M.Sc,Civil,Tier-1,2,0,5,Intermediate,9.27,Not Placed,None,0.0
+S283,23,F,M.Sc,Civil,Tier-1,9,0,5,Advanced,7.32,Placed,Web Developer,17.1
+S284,21,F,B.Tech,ME,Tier-1,6,2,6,Basic,8.05,Placed,Business Analyst,18.3
+S285,24,F,M.Sc,EEE,Tier-2,7,1,6,Basic,6.81,Not Placed,None,0.0
+S286,21,M,B.Tech,Civil,Tier-1,10,3,1,Basic,9.43,Placed,HR Analyst,18.7
+S287,23,M,B.Tech,Commerce,Tier-2,4,0,6,Intermediate,8.06,Not Placed,None,0.0
+S288,24,F,B.Tech,Civil,Tier-2,5,0,3,Advanced,9.13,Placed,Software Engineer,8.2
+S289,22,M,B.Tech,Commerce,Tier-1,6,3,4,Advanced,7.1,Placed,Data Analyst,12.8
+S290,21,M,MBA,Finance,Tier-3,2,1,5,Basic,8.17,Not Placed,None,0.0
+S291,20,F,B.Tech,Commerce,Tier-3,3,3,6,Intermediate,7.75,Not Placed,None,0.0
+S292,23,F,BCA,EEE,Tier-1,7,0,3,Basic,7.15,Placed,Business Analyst,3.4
+S293,21,F,MBA,IT,Tier-3,3,2,5,Intermediate,7.49,Not Placed,None,0.0
+S294,24,F,B.Tech,ME,Tier-3,9,3,4,Intermediate,8.67,Placed,Design Engineer,20.8
+S295,20,F,MBA,Finance,Tier-1,5,2,4,Advanced,8.77,Placed,HR Analyst,21.1
+S296,24,M,M.Sc,EEE,Tier-1,9,3,1,Intermediate,6.05,Not Placed,None,0.0
+S297,24,M,MBA,IT,Tier-3,7,1,6,Intermediate,8.86,Placed,Design Engineer,6.3
+S298,23,M,B.Tech,ME,Tier-2,10,3,6,Advanced,9.24,Placed,Software Engineer,19.9
+S299,22,F,M.Sc,Commerce,Tier-1,2,3,2,Intermediate,8.32,Not Placed,None,0.0
+S300,21,M,MBA,Commerce,Tier-3,5,1,5,Advanced,6.24,Not Placed,None,0.0
