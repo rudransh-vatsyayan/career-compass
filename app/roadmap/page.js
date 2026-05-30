@@ -2,7 +2,8 @@
 
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
-import { ArrowLeft, CheckCircle2, Circle, ClipboardList, FileDown, Gauge, Target, BarChart3, TrendingUp } from "lucide-react";
+import { ArrowLeft, CheckCircle2, Circle, ClipboardList, FileDown, Gauge, Target, BarChart3, TrendingUp, BookOpen } from "lucide-react";
+import { getSkillDemand } from "@/lib/roleSkills";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
 
 export default function RoadmapPage() {
@@ -74,6 +75,11 @@ export default function RoadmapPage() {
         .then(json => {
           console.log("Roadmap received:", json);
           setRoadmap(json);
+
+          const allSkills = [...new Set((json.steps || []).flatMap(s => s.skills || []))];
+          localStorage.setItem("roadmapSkills", JSON.stringify(allSkills));
+          localStorage.setItem("roadmapTarget", JSON.stringify(json));
+
           setLoading(false);
         })
         .catch(err => {
@@ -298,9 +304,27 @@ export default function RoadmapPage() {
                 {step.skills?.length > 0 && (
                   <div className="skill-tags">
                     <span className="tag-label">Skills to acquire ({step.skills.length})</span>
-                    {step.skills.map(skill => (
-                      <span key={skill} className="skill-tag">{skill}</span>
-                    ))}
+                    {step.skills.map(skill => {
+                      const demand = userProfile?.interestedRole ? getSkillDemand(userProfile.interestedRole, skill) : null;
+                      return (
+                        <Link
+                          key={skill}
+                          href={`/courses?skill=${encodeURIComponent(skill)}`}
+                          className="skill-tag-wrapper"
+                        >
+                          <span className="skill-tag">
+                            {skill}
+                            {demand === "essential" && <span className="skill-demand demand-essential">Essential</span>}
+                            {demand === "important" && <span className="skill-demand demand-important">Important</span>}
+                            {demand === "goodToHave" && <span className="skill-demand demand-good">Good to know</span>}
+                          </span>
+                          <span className="skill-course-link">
+                            <BookOpen size={11} />
+                            Courses
+                          </span>
+                        </Link>
+                      );
+                    })}
                   </div>
                 )}
 
